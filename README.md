@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a960ee&height=200&section=header&text=Om%20Otari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a960ee&height=200&section=header&text=Om%20Otari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Quantitative%20Finance%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=600&lines=Fresh+Data+Scientist+%F0%9F%A7%AA;ML+%2F+AI+Engineer+%F0%9F%A4%96;Computer+Vision+Explorer+%F0%9F%91%81%EF%B8%8F;NLP+%26+LLM+Builder+%F0%9F%92%AC;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -9,10 +9,10 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=otariom&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-otari)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/<!-- YOUR_KAGGLE_USERNAME -->)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/<!-- YOUR_HF_USERNAME -->)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/<(https://www.kaggle.com/<https://www.kaggle.com/omotari)>)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/<https://huggingface.co/otariom>)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](<!-- YOUR_PORTFOLIO_URL -->)
 
 </div>
@@ -28,8 +28,8 @@ class OmOtari:
         self.role        = "Data Scientist & ML Engineer"
         self.status      = "Fresh Graduate 🎓 | Open to Work"
         self.location    = "🌍 India"
-        self.focus       = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
-        self.looking_for = ["Full-Time Roles 💼", "Freelance Projects 🤝", "Collaborations 🔬"]
+        self.focus       = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Quantitative Finance"]
+        self.looking_for = ["Internship", "Full-Time Roles 💼", "Freelance Projects 🤝", "Collaborations 🔬"]
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something intelligent together 🚀")
@@ -42,76 +42,55 @@ me.say_hi()
 
 ## ✨ Fun Facts & Hobbies
 
-> 🚧 *Coming soon — update this section with your fun facts & hobbies!*
-
 ```
-🎯  Fun Fact  : <!-- Add a fun fact about yourself here -->
-🎮  Hobby 1   : <!-- e.g. Playing Chess / Gaming / Reading -->
-🌱  Hobby 2   : <!-- e.g. Hiking / Cooking / Photography -->
-💡  Passion   : <!-- e.g. Building AI that makes life easier -->
+🎯  Fun Fact  :  Add a fun fact about yourself here
+🎮  Hobby 1   :  Reading random new topics, Writing 
+🌱  Hobby 2   :  cooking, playing chess 
+💡  Passion   :  e.g. Building AI that makes life easier 
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
-> 🚧 *Add your projects here as you build them!*
-
 <table>
 <tr>
 <td width="50%">
 
 ### 🔬 Project One
-![Project](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=flat-square)
 
 ```
-<!-- Project Name     : Your Project Title -->
-<!-- Description      : One-liner about what it does -->
-<!-- Tech Stack       : Python | PyTorch | Streamlit -->
-<!-- GitHub Link      : https://github.com/otariom/... -->
+Project Name     : 🤖 Market Sentinel
+Description      : End-to-end MLOps pipeline for retail price prediction
+                   with automated drift detection, model retraining
+Tech Stack       : Python | PyTorch | Streamlit | FastAPI | Docker | GitHub 
+GitHub Link      : (https://github.com/otariom/market-sentinel-mlops)
 ```
-
 </td>
 <td width="50%">
 
 ### 🤖 Project Two
-![Project](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=flat-square)
-
 ```
-<!-- Project Name     : Your Project Title -->
-<!-- Description      : One-liner about what it does -->
-<!-- Tech Stack       : Python | TensorFlow | FastAPI -->
-<!-- GitHub Link      : https://github.com/otariom/... -->
+Project Name     : Aegis Flow -->
+Description      : AegisFlow is a privacy-first RAG system that analyzes
+                   regulatory documents like the EU AI Act using semantic
+                   search and a local LLM to generate grounded answers.
+Tech Stack       : Python | SentanceTransformer | FastAPI | Ollama (Llama-3)
+GitHub Link      : https://github.com/otariom/aegisflow-rag-ai
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧬 Project Three
-![Project](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=flat-square)
-
 ```
-<!-- Project Name     : Your Project Title -->
-<!-- Description      : One-liner about what it does -->
-<!-- Tech Stack       : Python | Scikit-learn | Plotly -->
-<!-- GitHub Link      : https://github.com/otariom/... -->
+Project Name     : portfolio risk var cvar
+Description      : A multi-method risk engine that calculates VaR and CVaR for a
+                   live stock portfolio, validating results through backtesting
+                   and Monte Carlo simulations
+Tech Stack       : Python | yfinance | Matplotlib | SciPy
+GitHub Link      : https://github.com/otariom/portfolio-risk-engine-var-cvar 
 ```
-
-</td>
-<td width="50%">
-
-### 📊 Project Four
-![Project](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=flat-square)
-
-```
-<!-- Project Name     : Your Project Title -->
-<!-- Description      : One-liner about what it does -->
-<!-- Tech Stack       : Python | SQL | Seaborn -->
-<!-- GitHub Link      : https://github.com/otariom/... -->
-```
-
 </td>
 </tr>
 </table>
@@ -158,30 +137,7 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=otariom&show_icons=true&theme=tokyonight&border_color=6e40c9&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=otariom&theme=tokyonight&border=6e40c9" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otariom&layout=compact&theme=tokyonight&border_color=6e40c9&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=otariom&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
@@ -202,7 +158,7 @@ me.say_hi()
 
 <div align="center">
 
-> 💼 I'm actively looking for **Data Science / ML roles** and **Freelance projects**
+> 💼 I'm actively looking for **Data Science / ML roles** , **Quant finance** and **Freelance projects** 
 > 
 > 🤝 Open to **research collaborations**, **open-source contributions** & **networking**
 > 
