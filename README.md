@@ -1,9 +1,8 @@
 # 🌌 Om Otari | Quant Finance & AI/ML Engineer
 ### *Building High-Alpha Systems with Scaffolding Logic & MLOps Rigor*
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4FD1C5&center=true&vCenter=true&width=500&lines=Quantitative+Finance;ML+System+Builder;Alpha+Signal+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4FD1C5&center=true&vCenter=true&width=500&lines=Quantitative+Developer;ML+System+Builder;Alpha+Signal+Architect" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,35 +12,16 @@
 * **The Philosophy:** Deep foundational understanding (No-Gaps) 
 ---
 
-## 🛠️ Quant Finance Toolkit
-*This is my specialized stack for navigating the intersection of markets and machines.*
-
-| Domain | Expert Tools & Frameworks | Why it matters |
-| :--- | :--- | :--- |
-| **Risk Modeling** | `VaR`, `CVaR`, `Monte Carlo` | Quantifying downside with mathematical certainty. |
-| **NLP Alpha** | `FinBERT`, `Transformers`, `Sentiment Logic` | Turning unstructured news into tradable signals. |
-| **Backtesting** | `Vectorized Signal Logic`, `yfinance` | Validating strategies without lookahead bias. |
-| **MLOps** | `DVC`, `GitHub Actions`, `Docker` | Ensuring reproducibility in financial experiments. |
-
----
-
-## 🚀 "What Makes It Real" — Featured Projects
+## 🚀  Featured Projects
 *Every repo here isn't just a collection of files; it's a solution to a specific market or technical hurdle.*
 
 ### 📈 [Quant-NLP-Alpha-Signal](https://github.com/otariom/Quant-NLP-Alpha-Signal)
 **The Technical Choice:** Used **FinBERT** over standard BERT because financial nuances (like "volatile" or "crash") require domain-specific weights.
 * **Why it matters:** Standard sentiment models miss the "Alpha" in financial jargon. This pipeline automates the ingestion-to-signal flow.
 
-### 🛡️ [Portfolio Risk Engine](https://github.com/otariom/Portfolio-Risk-Engine)
-**The Technical Choice:** Implemented **Monte Carlo Simulations** alongside Parametric VaR.
-* **Why it matters:** Parametric methods assume normality; Monte Carlo respects the "fat tails" of real-world market crashes. It’s the difference between a model that works on paper and one that survives a Black Swan.
-
-### 🤖 [LexiGuard - Agentic Auditor](https://github.com/otariom/LexiGuard)
+### 🤖 [AgenticRAG-Legal-Audit-System](https://github.com/otariom/AgenticRAG-Legal-Audit-System)
 **The Technical Choice:** Built as a **Local RAG** system to audit Model Cards against the EU AI Act.
 * **Why it matters:** Compliance isn't a "nice-to-have"; it's the barrier to entry for institutional AI. This ensures models are legally "Safe-to-Deploy."
-
-
-
 ---
 
 ## 🧰 Tech Stack (Deep Navy Unified)
@@ -54,7 +34,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0A0F1E" />
 </p>
 
-### 🔹 AI, ML & Quant Libraries
+### 🔹 AI, ML  Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0A0F1E" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0A0F1E" />
@@ -62,6 +42,16 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0A0F1E" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0A0F1E" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0A0F1E" />
+</p>
+
+### 📈 Quant & Financial Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Black_Scholes-D4AF37?style=for-the-badge&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/VaR_%2F_CVaR-E67E22?style=for-the-badge&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Markowitz_Optimization-82A17E?style=for-the-badge&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/ARIMA_%2F_GARCH-5D6D7E?style=for-the-badge&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Pairs_Trading-4DB6AC?style=for-the-badge&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Monte_Carlo-4682B4?style=for-the-badge&labelColor=0A0F1E" />
 </p>
 
 ### 🔹 MLOps & Infrastructure
