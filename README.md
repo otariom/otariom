@@ -71,5 +71,6 @@
 ## 📬 Connect & Collaborate
 * **Currently:** Focusing on the **WorldQuant Alphathon (IQC 2026)**.
 * **Portfolio:** [omotari-portfolio.netlify.app](https://omotari-portfolio.netlify.app)
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile)
+* **LinkedIn:** [Connect with me](www.linkedin.com/in/om-otari)
+* **Gmail:** otariom.work@gmail.com
 
